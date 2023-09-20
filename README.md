@@ -3,7 +3,7 @@
 **functions are given name according to Pascalcase**
 ### Good Example
 ```
-function DashboardLoginPage () =>{
+function DashboardLoginPage () => {
 //
 //
 }
